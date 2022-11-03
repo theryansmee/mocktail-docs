@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkMocktail=self.webpackChunkMocktail||[]).push([[329],{3595:l=>{l.exports=JSON.parse('{"allTagsPath":"/mocktail-docs/blog/tags","slug":"/mocktail-docs/blog/tags/hello","name":"hello","count":2,"permalink":"/mocktail-docs/blog/tags/hello"}')}}]);
