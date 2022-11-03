@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkMocktail=self.webpackChunkMocktail||[]).push([[72],{8326:s=>{s.exports=JSON.parse('{"allTagsPath":"/theryansmee/mocktail-docs/blog/tags","slug":"/theryansmee/mocktail-docs/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/theryansmee/mocktail-docs/blog/tags/docusaurus"}')}}]);
