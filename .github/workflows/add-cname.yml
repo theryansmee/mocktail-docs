@@ -1,0 +1,14 @@
+name: Add CNAME file to docs
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: 'finnp/create-file-action@main'
+        env:
+          FILE_NAME: 'docs/CNAME'
+          FILE_DATA: 'www.mocktailapp.io'
