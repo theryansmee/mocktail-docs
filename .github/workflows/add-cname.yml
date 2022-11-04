@@ -8,7 +8,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: 'finnp/create-file-action@main'
+      - uses: 'finnp/create-file-action@master'
         env:
           FILE_NAME: 'docs/CNAME'
           FILE_DATA: 'www.mocktailapp.io'
