@@ -10,4 +10,4 @@ jobs:
     steps:
       - name: Create CNAME file
 #        run: printf 'mocktailapp.io' > CNAME
-        run: printf 'Hello world' > ~docs/CNAME
+        run: printf 'Hello world' > ~/docs/CNAME
