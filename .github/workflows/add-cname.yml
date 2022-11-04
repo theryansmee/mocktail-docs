@@ -9,5 +9,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Create CNAME file
-        run: |
-          printf 'mocktailapp.io' > CNAME
+#        run: printf 'mocktailapp.io' > CNAME
+        run: printf 'Hello world' > ~docs/CNAME
