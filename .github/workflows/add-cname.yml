@@ -8,6 +8,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      run: |
+      run: | 
         touch docs/CNAME
-        echo 'mocktailapp.io' >> docs/CNAME
+        echo 'mocktailapp.io' > ~/docs/CNAME
