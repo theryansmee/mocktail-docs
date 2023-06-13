@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkMocktail=self.webpackChunkMocktail||[]).push([[477],{1235:s=>{s.exports={blogPosts:[]}}}]);
